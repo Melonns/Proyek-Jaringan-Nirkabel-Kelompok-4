@@ -47,13 +47,16 @@ Rangkuman masalah yang ditemukan selama proses simulasi dan solusinya.
 Bukti tangkapan layar dari terminal saat simulasi berjalan.
 
 ### 1. Start gNB Simulator
-![Log Start gNB](images/gnb-start.png)
+![Log Start gNB](Start_gNB.png)  
 *Gambar 1.2: Proses inisialisasi gNB berhasil.*
 
 ### 2. Start UE Simulator
-![Log Start UE](images/ue-start.png)
+![Log Start UE](Start_UE_Simulator.png)  
 *Gambar 1.3: Proses registrasi UE dan pembuatan tunnel.*
 
 ### 3. Test Basic Connectivity
-![Ping Test Result](images/connectivity-test.png)
-*Gambar 1.4: Hasil ping ke Gateway dan Internet.*
+![Ping Test Result](Test_Basic_Connectivity_1.png)  
+*Gambar 1.4: Hasil Tes Basic Connectivity pertama.*
+
+![DNS Test Result](Test_Basic_Connectivity_2.png)  
+*Gambar 1.5: Hasil Tes Basic Connectivity kedua.*
