@@ -1,5 +1,9 @@
 # Proyek Jaringan Nirkabel - Kelompok 4
-**Topik:** Open5GS & UERANSIM 5G Core Simulation
+Nama Anggota Kelompok:
+1. Made Deva Wikananda Putra - 235150207111061
+2. Achmad Alvian Prasetio - 235150207111063
+3. A. Agung Ngurah Bayu Widia Putra - 235150207111066
+4. Anak Agung Ngurah Aditya Wirayudha - 235150207111067
 
 ## 📊 Registration Status
 Berikut adalah hasil log registrasi dari simulasi gNB dan UE.
